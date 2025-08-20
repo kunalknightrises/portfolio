@@ -120,7 +120,7 @@ export const skills = {
 export const projects = [
   {
     title: "Sortmyshaadi",
-    github: "https://github.com/kunalofficial/sortmyshaadi",
+    github: "https://github.com/kunalkunal12aiv/sortmyshaadi",
     description: [
       "Developed web and content system for a modern wedding-tech startup.",
       "Handled UX, frontend, backend and social media launch strategy.",
@@ -128,7 +128,7 @@ export const projects = [
   },
   {
     title: "Kidzclo",
-    github: "https://github.com/kunalofficial/kidzclo",
+    github: "https://github.com/kunalkunal12aiv/Kidzclub",
     description: [
       "Built branding, website creatives, and video content for kidswear ecommerce.",
       "Set up organic & paid channel strategy with data-driven iterations.",
@@ -136,7 +136,7 @@ export const projects = [
   },
   {
     title: "Rebrag",
-    github: "https://github.com/kunalofficial/rebrag",
+    github: "https://digital-dexterity.wixstudio.com/mysite1",
     description: [
       "Created design and marketing assets for sustainable fashion label.",
       "Managed entire social presence and creative pipeline.",
@@ -144,7 +144,7 @@ export const projects = [
   },
   {
     title: "Chloe Carter (Virtual Influencer)",
-    github: "https://github.com/kunalofficial/chloecarter",
+    github: "https://www.youtube.com/@the_curious_chloe/",
     description: [
       "Designed and developed the visual identity, motion graphics and content pipeline for virtual influencer.",
       "Produced animated posts, reels + AI-assisted storytelling content.",
