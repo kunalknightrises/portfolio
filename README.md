@@ -16,7 +16,7 @@ A sleek, responsive portfolio website built with **Astro**, **React**, and **Tai
 
 ## 🚀 Demo
 
-👉 [Live Demo](https://rishilol.vercel.app/)
+👉 [Live Demo](https://kunalkumar1.netlify.app/)
 
 ## 🛠 Getting Started
 
@@ -165,7 +165,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## ©️ Copyright
 
-© 2025 **Rishikesh S.** All rights reserved.
+© 2025 **Kunal.** All rights reserved.
 
 You’re welcome to use this template for your own portfolio — just update `data.ts` and tweak the design as needed. Please keep attribution to the original author.
 
