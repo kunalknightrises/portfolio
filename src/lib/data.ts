@@ -2,8 +2,8 @@ export const personalInfo = {
   name: "Kunal",
   location: "Munna Palace Colony, Deori Road, Agra",
   email: "kunalkumar980860@gmail.com",
-  github: "https://github.com/kunalofficial", // <-- update if needed
-  linkedin: "https://linkedin.com/in/kunalofficial", // <-- update if needed
+  github: "https://github.com/kunalkunal12aiv", // <-- update if needed
+  linkedin: "https://www.linkedin.com/in/kunal-kumar-ba1762267/", // <-- update if needed
   profilePicture: "/Kunal (2).png",
   heroDescription:
     "I’m a multi-disciplinary Web Developer, AI Integrator, and Content Creator who blends creative storytelling with strong technical execution. I specialize in crafting fast, interactive, and scalable web experiences using modern stacks like React and Node.js, while bringing projects to life with clean design systems and smooth animations. Alongside development, I’m an experienced video editor and designer, producing high-impact content with tools like After Effects, Blender, and Filmora, and enhancing workflows using next-gen AI platforms such as Sora, Veo 3, Flow, and HeyGen. I actively work in the AI space, building smart features using LangChain, Hugging Face, Vertex AI, and customized model-training pipelines. My goal is to build, design, and create digital solutions where technology meets creativity, driven by clarity, innovation, and real-world impact.",
