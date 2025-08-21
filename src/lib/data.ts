@@ -1,6 +1,6 @@
 export const personalInfo = {
   name: "Kunal",
-  location: "Munna Palace Colony, Deori Road, Agra",
+  location: "Agra, Uttar Pradesh, India ",
   email: "kunalkumar980860@gmail.com",
   github: "https://github.com/kunalkunal12aiv", // <-- update if needed
   linkedin: "https://www.linkedin.com/in/kunal-kumar-ba1762267/", // <-- update if needed
